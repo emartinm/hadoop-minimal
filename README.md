@@ -3,6 +3,7 @@ Máquina virtual mínima para realizar pruebas con Hadoop (MapReduce, Spark y Pi
 
 ## Uso (en Windows)
 
+Antes de nada instalar ***git*** (<https://git-scm.com/download>), VirtualBox (<https://www.virtualbox.org/wiki/Downloads>) y ***vagrant*** (<https://www.vagrantup.com/downloads.html>).
 
 1. Eliminar la carpeta hadoop-minimal del escritorio (si existe)
 1. Abrir un terminal en el escritorio con el botón derecho y la opción ***"Git Bash Here"***
