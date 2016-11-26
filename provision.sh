@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+sudo apt-get update
 sudo apt-get install -y default-jdk python-minimal
 
 wget http://apache.rediris.es/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz
