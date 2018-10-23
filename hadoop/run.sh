@@ -3,7 +3,7 @@
 # Script para compilar y lanzar tareas Hadoop MapReduce en la VM
 
 HADOOP_DIR=/home/vagrant/hadoop-3.1.1 # Directorio donde está Hadoop
-CLASS_NAME=Words # Nombre de la clase principal
+CLASS_NAME=WordCount # Nombre de la clase principal
 
 # Limpiar compilaciones anteriores
 rm -rf *.class

@@ -17,6 +17,7 @@ Si estos pasos fallan, realizar los pasos de manera manual:
 1. Eliminar el fichero `Vagrantfile`
 1. Abrir un terminal y acceder a la carpeta que acabáis de descargar
 1. `$ vagrant init ubuntu/bionic64`
+1. `$ vagrant up`
 1. `$ vagrant ssh`
 1. `$ /vagrant/provision.sh`
 1. `$ source .bashrc`
