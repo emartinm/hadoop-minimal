@@ -9,7 +9,7 @@ Antes de nada instalar ***VirtualBox*** (<https://www.virtualbox.org/wiki/Downlo
 1. Abrir un terminal y acceder a la carpeta que acabáis de descargar
 1. `$ vagrant up`
 1. `$ vagrant ssh`
-1. A partir de este momento estaréis dentro de la máquina virtual en modo consola. La carpeta `/vagrant` es una carpeta compartida que está sincronizada con la carpeta de la máquina anfitriona que contiene el fichero `Vagrantfile` (es decir, la carpeta en la que habéis ejecutado los comandos).
+1. A partir de este momento estaréis dentro de la máquina virtual en modo consola. La carpeta `/vagrant` de la máquina virtual es una carpeta compartida que está sincronizada con la carpeta de la máquina anfitriona que contiene el fichero `Vagrantfile` (es decir, la carpeta en la que habéis ejecutado los comandos). Podéis probar los ejemplos en `/vagrant/hadoop` y `/vagrant/spark` para probar que todo funciona. Todos los binarios (`pyspark`, ``spark-submit`, `python`, etc.) están en el `PATH`.
 
 
 Si estos pasos fallan, realizar los pasos de manera manual:
