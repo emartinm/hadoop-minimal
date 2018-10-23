@@ -3,7 +3,7 @@ Máquina virtual mínima con Anaconda3 5.3, Hadoop 3.1.1 y Spark 2.3.2 en Ubuntu
 
 ## Uso (en Windows)
 
-Antes de nada instalar VirtualBox (<https://www.virtualbox.org/wiki/Downloads>) y ***vagrant*** (<https://www.vagrantup.com/downloads.html>).
+Antes de nada instalar ***VirtualBox*** (<https://www.virtualbox.org/wiki/Downloads>) y ***vagrant*** (<https://www.vagrantup.com/downloads.html>).
 
 1. Descargar la carpeta en el escritorio
 1. Abrir un terminal con el botón derecho y la opción ***"Git Bash Here"***
